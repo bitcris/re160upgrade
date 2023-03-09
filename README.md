@@ -12,3 +12,6 @@ Você pode ver o vídeo que fiz explicando as diferenças.
 3 - Você pode reinstalar o firmware da Multilaser novamente.
 
 
+
+4 - Vídeo de instalação
+
