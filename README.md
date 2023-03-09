@@ -1,7 +1,8 @@
 # re160upgrade
 Instalar o firmware do roteador Tenda n301 no roteador Multilaser RE160
 
-IMPORTANTE
+#IMPORTANTE
+
 1 - Antes de fazer a alteração do firmware você deve se certificar que seu roteador não está sendo usado com as configurações do seu provedor, pois a alteração irá resetar todas as configurações do aparelho.
 
 
@@ -19,7 +20,8 @@ Você pode ver o vídeo que fiz explicando as diferenças.
 5 -  Verifique a versão atual do firmware instalado em seu Multilaser, Pode não ser a mesma disponibilizada aqui.
 
 
-VERSÕES
+#VERSÕES
+
 firmware Tenda n301: US_N301V1.0BR_V11.13.01.23_multi_TDEGYH01 
 
 firmware Multilaser re160: RE160 V5.07.52 MTL02
