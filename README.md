@@ -24,3 +24,7 @@ firmware Tenda n301: US_N301V1.0BR_V11.13.01.23_multi_TDEGYH01
 
 firmware Multilaser re160: RE160 V5.07.52 MTL02
 
+
+link tenda: https://www.tendacn.com/br/download/detail-2709.html
+
+link multilaser: http://dados.multilaser.com.br/sac/Infograficos/Roteador/6%20AtualizacaodeFirmwareRE160.pdf
