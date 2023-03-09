@@ -15,3 +15,12 @@ Você pode ver o vídeo que fiz explicando as diferenças.
 
 4 - Vídeo de instalação
 
+
+5 -  Verifique a versão atual do firmware instalado em seu Multilaser, Pode não ser a mesma disponibilizada aqui.
+
+
+VERSÕES
+firmware Tenda n301: US_N301V1.0BR_V11.13.01.23_multi_TDEGYH01 
+
+firmware Multilaser re160: RE160 V5.07.52 MTL02
+
