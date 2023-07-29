@@ -1,5 +1,5 @@
 # re160upgrade
-Instalar o firmware do roteador Tenda n301 no roteador Multilaser RE160
+Instalar o firmware do roteador com o sistema Tenda n301 no roteador Multilaser RE160
 
 #IMPORTANTE
 
